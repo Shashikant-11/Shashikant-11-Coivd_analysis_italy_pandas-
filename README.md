@@ -1,2 +1,2 @@
-# Shashikant-11-Coivd_analysis_italy_pandas-
+# Coivd_analysis_italy_pandas-
 Analysis of covid data in Italy with Pandas.
